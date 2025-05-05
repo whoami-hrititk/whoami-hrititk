@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @whoami-hrititk
-- 👀 I’m interested in c++, embedded system, micro-controller and low-level things
+- 👀 I’m interested in c++, embedded system, micro-controller, low-level things and cyber-security.
 - 🌱 I’m currently learning c++
 
 <!---
