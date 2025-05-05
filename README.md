@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whoami-hrititk
 - 👀 I’m interested in c++, embedded system, micro-controller, low-level things and cyber-security.
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++, javascript and web-security.
 
 <!---
 whoami-hrititk/whoami-hrititk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
