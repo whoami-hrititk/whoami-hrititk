@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whoami-hrititk
+- 👋 Hi, I’m @whoami-hritik
 - 👀 I’m interested in c++, embedded system, micro-controller, low-level things and cyber-security.
 - 🌱 I’m currently learning c++, javascript and web-security.
 
